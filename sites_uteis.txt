@@ -1,0 +1,17 @@
+https://www.filipeflop.com/blog/cartao-sd-com-arduino/
+
+https://www.filipeflop.com/blog/controlando-um-lcd-16x2-com-arduino/
+
+https://www.arduinoecia.com.br/2015/07/sensor-de-som-ky-038-microfone-arduino.html
+
+https://www.filipeflop.com/blog/temperatura-pressao-bmp180-arduino/
+
+https://www.filipeflop.com/blog/estacao-meteorologica-com-arduino/
+
+https://www.filipeflop.com/produto/sensor-de-luz-tsl2561-lux-luminosidade/
+
+https://www.filipeflop.com/produto/sensor-de-luz-tsl2561-lux-luminosidade/
+
+https://learn.adafruit.com/tsl2561/arduino-code
+
+https://www.sharebot.it/wp-content/uploads/2015/07/ArduinoMega2560_R3_Fronte.jpg
